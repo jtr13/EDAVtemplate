@@ -6,3 +6,5 @@ view: https://github.com/YOUR GITHUB USERNAME/YOUR REPO NAME/blob/main/%s
 language:
   ui:
     chapter_name: "Chapter "
+    
+before_chapter_script: "_common.R"
