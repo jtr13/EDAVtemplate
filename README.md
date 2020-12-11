@@ -38,7 +38,7 @@ This is a template for the EDAV final project. It is based on the template creat
 
 - [ ] 1. Install **bookdown** with `install.packages("bookdown")`. If you already have it, update to the most recent version.
 
-- [ ] 2. Render locally with `bookdown::render_book("index.Rmd")` or clicking the *Knit* button. (Yes, this is new!)
+- [ ] 2. Render locally with `bookdown::render_book("index.Rmd")` or clicking the *Build book* button which should appear in the Build tab (in the same pane as Environment, History, Connections, ...).
 
 - [ ] 3. Use `browseURL("docs/index.html")` to view your book locally (or just open `index.html` in a browser).
 
