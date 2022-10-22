@@ -1,0 +1,6 @@
+# Proposal
+
+1. Provide a short description of your topic. 
+
+2. Identify one or more data sources that you might draw on for the final project. For each, describe how the data is collected and by whom. You should be getting the data from the source, generally an organization that manages the data collection process and publishes the data. Describe the format of the data, the frequency of updates, and any other relevant information. Explain how you plan to import the data.
+
